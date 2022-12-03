@@ -9,5 +9,9 @@
 - git
 - github
 
-samus.sp@gmail.com
+### link da pagina
+- https://samusfsp.github.io/Pokedex-DIO/
+
+### contatos:
+- samus.sp@gmail.com
 
