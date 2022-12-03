@@ -5,7 +5,7 @@
 
 - html
 - css
-- - javascript
+- javascript
 - git
 - github
 
