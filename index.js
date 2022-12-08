@@ -1,4 +1,4 @@
-/* function convertPokemonToLi(pokemon) {
+ function convertPokemonToLi(pokemon) {
   return `
         <li class="Pokemon">
             <span class="number">#001</span>
@@ -44,4 +44,4 @@ pokeApi.getPokemons().then((pokemons = []) => {
     .finally(function () {
         console.log('requisição concluida!'); */
     }) 
-    */
+    
